@@ -6,3 +6,6 @@
 * [ ] Добавьте текст, отражающий текущую позицию проигрывания.
 
 ![](https://go.skillbox.ru/media/files/share/1638183206121.png)
+
+https://user-images.githubusercontent.com/47079939/235367405-1454dc33-7aaf-4cc8-a681-4bfcbfbcde0e.mov
+
